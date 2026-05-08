@@ -1,0 +1,72 @@
+{
+  "/": [
+    "The Emerald Taigh",
+    "1. Session logs",
+    "The World",
+    "NPCs",
+    "Items-magic",
+    "World Events (History)",
+    "PC's",
+    "badass quotes",
+    "Things to look into later"
+  ],
+  "/1. Session logs": [
+    "Session 1 5-9-2025",
+    "Session 2 6-4-2025",
+    "Session 3 7-2-2025",
+    "Session 4 7-16-2025",
+    "Session 5 8-13-2025",
+    "Session 6 9-10-2025"
+  ],
+  "/The World": [
+    "Nyssara Kingdom of Veils and Incense",
+    "Tavros, the Iron Machine of Law"
+  ],
+  "/The World/Nyssara Kingdom of Veils and Incense": [
+    "1. Nyssara",
+    "Dorn's Hollow",
+    "Virelthra"
+  ],
+  "/The World/Nyssara Kingdom of Veils and Incense/Dorn's Hollow": [
+    "Dorn's Hollow",
+    "Asylum Ruins (Knight's Renewal)",
+    "The Emerald Taigh ('tie')"
+  ],
+  "/The World/Nyssara Kingdom of Veils and Incense/Virelthra": [
+    "Virelthra",
+    "Hollowstone Monastery"
+  ],
+  "/The World/Tavros, the Iron Machine of Law": [
+    "1. Tavros",
+    "Kor-magruun (Capital)"
+  ],
+  "/NPCs": [
+    "Archivist Theylen Korel",
+    "Benedict Mowbray (ET)",
+    "Cait",
+    "Eiralen of Clan Lavellan",
+    "Esme 'Jaan' Klelvar",
+    "Gavik Klelvar",
+    "Isolde Cloudfang (ET)",
+    "Kieran's old adventuring party",
+    "Klelvar Family",
+    "Leoran of Clan Lavellan",
+    "Maebh of Clan Lavellan",
+    "Prior Alden Vex",
+    "sgt Laura Danneth",
+    "V"
+  ],
+  "/Items-magic": [
+    "Shard",
+    "The Deck of Many Things"
+  ],
+  "/World Events (History)": [
+    "The Titan's Dusk"
+  ],
+  "/PC's": [
+    "Gnakk",
+    "Kieran",
+    "Vudu",
+    "Wizard class notes"
+  ]
+}
